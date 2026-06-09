@@ -3,7 +3,7 @@
   "short_name": "AD Fonte",
   "description": "Sistema de Gestão Ministerial",
   "start_url": "./",
-  "display": "standalone",
+  "display": "browser",
   "orientation": "portrait",
   "background_color": "#050B10",
   "theme_color": "#050B10",
